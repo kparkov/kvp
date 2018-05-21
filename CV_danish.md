@@ -1,4 +1,4 @@
-# CV
+# Selvstændig udvikler og softwarearkitekt
 
 <img align="right" width="150" src="profile.jpg">
 
