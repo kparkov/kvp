@@ -1,11 +1,12 @@
 # Selvstændig udvikler og softwarearkitekt
 
-<img align="right" width="150" src="profile.jpg">
+<img align="right" width="175" src="profile.jpg">
 
 **Kristian Videmark Parkov**  
 Født 9. august 1980  
 Tranevej 15, 2. th.  
 2400 København NV  
+[hej@bitkompagniet.dk](mailto:hej@bitkompagniet.dk)  
 [LinkedIn](https://www.linkedin.com/in/kparkov/)  
 [Bitkompagniet ApS](http://bitkompagniet.dk/)
 
@@ -211,19 +212,13 @@ _PHP, TYPO3, MySQL, JavaScript, jQuery, SVN_
 
 # Side-projekter
 
-Non-profit eller 
-
-### Launch, Public Ally
-
-Et fejlet startup, der handlede om at lave et projektsystem til administration af offentlige udbudsprocesser.
-
-### C# kursus
-
 ### Green footsteps, Roskilde festival
 
 Et dokumentationssystem til godkendelse af "green achievements", hvor festivaldeltagere, der ønskede at bo i festivalens grønne camp kunne få adgangskravene godkendt. Adgangskravene omfattede f.eks. at indlevere en bestemt mængde pant, sortere affald eller lignende. For at bestå, skulle de enkelte benspænd modsvares af beskrivelse og fotodokumentation.
 
-### Website, Pantbørsen
+### Moduler, Pantbørsens website
+
+
 
 ### Website, Iværksætterhjælpen
 
