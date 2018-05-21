@@ -1,14 +1,20 @@
 # Resumé
 
+<img align="right" width="150" src="profile.jpg">
 
-<div style="float:right; margin: 0 0 20px 10px"><img src="profile.jpg" style="width: 200px" /></div>
+**Kristian Videmark Parkov**  
+Født 9. august 1980  
+Tranevej 15, 2. th.  
+2400 København NV  
+[LinkedIn](https://www.linkedin.com/in/kparkov/)  
+[Bitkompagniet ApS](http://bitkompagniet.dk/)
 
+---
 Kristian Videmark Parkov, født 1980. Bor med min kæreste og datter i København. 
 
 Full-stack / backend udvikler med fokus på softwarearkitektur og ledererfaring. Startede min karriere med fokus på web, og har sidenhen bevæget mig hen mod mere komplicerede softwaresystemer indenfor medicin, forskning og administration.
 
 Jeg har fokus på proces og projektmodeller.
-<div style="clear:both" />
 
 # Erfaring
 
@@ -99,7 +105,7 @@ Selvbetjeningssystem til indmeldelse og administration for eksisterende medlemme
 _C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
 
 
-### Website build tool, Svift.net
+### Website build tool, Svift
 
 **Teknisk rådgiver / Udvikler**
 
@@ -189,9 +195,24 @@ Komponent-udvikling til administration af andelsforeninger.
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, SVN_
 
-# Side projects
+# Side-projekter
 
-### Public Ally
-### C# course
-### Roskilde festival - Green footsteps
+Non-profit eller 
+
+### Launch, Public Ally
+
+Et fejlet startup, der handlede om at lave et projektsystem til administration af offentlige udbudsprocesser.
+
+### C# kursus
+
+### Green footsteps, Roskilde festival
+
+Et dokumentationssystem til godkendelse af "green achievements", hvor festivaldeltagere, der ønskede at bo i festivalens grønne camp kunne få adgangskravene godkendt. Adgangskravene omfattede f.eks. at indlevere en bestemt mængde pant, sortere affald eller lignende. For at bestå, skulle de enkelte benspænd modsvares af beskrivelse og fotodokumentation.
+
+### Website, Pantbørsen
+
+### Website, Iværksætterhjælpen
+
+### Website, Transmogriffen
+
 ### Cards
