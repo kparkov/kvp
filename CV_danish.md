@@ -22,18 +22,19 @@ Jeg bor i København med min kæreste Ida og vores datter Liva.
 
 ### Nøgleord
 
-_Softwarearkitektur, C#, .NET, Javascript, PHP, SQL, MongoDB, REST API, Git, Docker, Test Driven Development (TDD), Ledelseserfaring, Kommunikation, Scrum_
+_Softwarearkitektur, C#, .NET, Javascript / Node.js, React, PHP, SQL, MongoDB, REST API, Git, Docker, Test Driven Development (TDD), Ledelseserfaring, Kommunikation, Scrum_
 
 # Erfaring
 
 ### Stifter og udvikler, Bitkompagniet ApS
 **2013 - nu**
 
-Tilbyder projekt- og konsulentbaserede ydelser i softwareudvikling, web og databaser, ofte med integrationer til andre systemer.
+Tilbyder projekt- og konsulentbaserede ydelser indenfor softwareudvikling, web og databaser, ofte med integrationer til andre systemer.
 
 Eksempel-projekter:
 
 - Kernemoduler til modellering af molekylær modellering og proteinstrukturer for [Novo Nordisk A/S](https://www.novonordisk.com/). _C# / .NET Core / class library_
+- Bestillingsapplikation til at fremsøge den bedste pris for et indkøb på tværs af rammeaftaler for [Moderniseringsstyrelsen](https://modst.dk/). _C# / .NET / MVC_
 - Selvbetjeningssystem til studielån på borger.dk. _C# / .NET / MVC_
 
 [Se den fulde liste af projekter](#projekter).
@@ -72,7 +73,7 @@ Strategisk rolle med fokus på trivsel og fremdrift.
 Udvalgte aktiviteter:
 
 - Speciale i udvikling af rehabiliteringsværktøjer til afasi-patienter med inspiration fra spil. Karakter: 12.
-- Samarbejde med Danmarks Radio om at lave nyhedsspil i Flash, der blev offentliggjort på DR's website.
+- Eksperimentelt samarbejde med Danmarks Radio om at lave nyhedsspil i Flash, der blev offentliggjort på DR's website.
 - Kurser i kunstig intelligens, udvikling i 3D engines (Unity) og gamification.
 
 ### ba.soc., Communication & Computer Science, Roskilde Universitet
@@ -88,9 +89,9 @@ Udvalgte aktiviteter:
 
 ### Kernemoduler til proteinmodellering, Novo Nordisk A/S
 
-**Softwarearkitekt / Udvikler / On-site konsulent**
+**Softwarearkitekt / Udvikler (on-site konsulent)**
 
-TODO: beskrivelse
+Re-implementering af eksisterende kernemoduler i et moderne sprog, med en række tilpasninger til specifikationen. Kernemoduler til runtime-modellering af molekyler og proteinstrukturer, samt analyse og tilpasning af disse. Arbejdede solo på implementeringen af kernemodulet, hvorefter implementeringen og projektet blev tilknyttet en række afledte projekter. Her fortsatte jeg som projektdeltager til afslutningen af projekterne.
 
 _C#, .NET Core, XUnit_
 
@@ -101,7 +102,6 @@ _C#, .NET Core, XUnit_
 Bestillingsapplikation til offentligt ansatte, der skal indkøbe materialer eller hotelophold gennem rammeaftaler. Først sammensættes kurven, derefter finder systemet den mest fordelagtige leverandør og sender ordren.
 
 _C#, .NET MVC, JavaScript, MSSQL, HTML5 / Sass / CSS3, Foundation (CSS), Git_
-
 
 ### Aggregering af revenue-data, Relevant Media
 
@@ -119,10 +119,9 @@ Selvbetjeningssystem til indmeldelse og administration for eksisterende medlemme
 
 _C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
 
-
 ### Website build tool, Svift
 
-**Teknisk rådgiver / Udvikler**
+**Rådgivende softwarearkitekt**
 
 Værktøj til at lave hjemmesider uden teknisk viden, udbudt til private og små virksomheder. Microservice-arkitektur. Store frontend-udfordringer med krav om at kunne redigere og udskifte styles live.
 
@@ -188,7 +187,7 @@ _PHP, TYPO3, MySQL, JavaScript, Ember.js, jQuery, Git_
 
 ### TopDanmark
 
-**Udvikler / On-site konsulent**
+**Udvikler (on-site konsulent)**
 
 Udvikling af komponenter til selvbetjening på TopDanmarks hjemmeside i forbindelse med re-launch.
 
@@ -210,18 +209,13 @@ Komponent-udvikling til administration af andelsforeninger.
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, SVN_
 
-# Side-projekter
+# Frivilligt arbejde
 
-### Green footsteps, Roskilde festival
+Pro-bono projekter.
 
-Et dokumentationssystem til godkendelse af "green achievements", hvor festivaldeltagere, der ønskede at bo i festivalens grønne camp kunne få adgangskravene godkendt. Adgangskravene omfattede f.eks. at indlevere en bestemt mængde pant, sortere affald eller lignende. For at bestå, skulle de enkelte benspænd modsvares af beskrivelse og fotodokumentation.
-
-### Moduler, Pantbørsens website
-
-
-
-### Website, Iværksætterhjælpen
-
-### Website, Transmogriffen
-
-### Cards
+- Design og implementering af website til forfatterinde [Line-Maria Lång](http://linemaria.dk/).
+- Design og implementering af website til [Det Lille Risteri](http://detlilleristeri.dk/).
+- Moduler til review og kommentering på [Pantbørsens hjemmeside](http://pantborsen.dk/).
+- Green footsteps, Roskilde Festival - dokumentationssystem til godkendelse af "green achievements", hvor festivaldeltagere, der ønskede at bo i festivalens grønne camp kunne få adgangskravene godkendt.
+- Teknisk implementering af website til [Iværksætterhjælpen](http://ivaerksaetterhjaelpen.dk/).
+- Teknisk implementering af website til [Transmogriffen](http://transmogriffen.dk/).
