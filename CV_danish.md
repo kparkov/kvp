@@ -12,7 +12,7 @@ Tranevej 15, 2. th.
 
 ---
 
-Full-stack / backend udvikler med fokus på softwarearkitektur og ledererfaring. Startede min karriere med fokus på web, og har sidenhen bevæget mig hen mod mere komplicerede softwaresystemer indenfor medicin, forskning og administration. Jeg er klart stærkest indenfor backend-udvikling, men der er ofte en grænseflade til web i form af et REST API og f.eks. en React frontend.
+Full-stack / backend udvikler med fokus på softwarearkitektur og ledererfaring. Startede min karriere med fokus på web, og har sidenhen bevæget mig hen mod mere komplicerede softwaresystemer indenfor offentlig administration, forskning og økonomi. Jeg er klart stærkest indenfor backend-udvikling, men der er ofte en grænseflade til web i form af et REST API og f.eks. en React frontend.
 
 Jeg startede i 2013 eget firma ([Bitkompagniet](http://bitkompagniet.dk)), og har her gennemført en række projekter både som leverandør og on-site konsulent, hvor jeg har spændt vidt i forhold til roller. Nogle projekter har jeg været ene om at gennemføre, i andre er jeg indgået som projektdeltager eller teknisk leder.
 
@@ -90,11 +90,19 @@ Udvalgte aktiviteter:
 
 ### Kernemoduler til proteinmodellering, Novo Nordisk A/S
 
-**Softwarearkitekt / Udvikler (on-site konsulent)**
+**Softwarearkitekt / Udvikler / on-site konsulent**
 
 Re-implementering af eksisterende kernemoduler i et moderne sprog, med en række tilpasninger til specifikationen. Kernemoduler til runtime-modellering af molekyler og proteinstrukturer, samt analyse og optimering af disse. Arbejdede solo på implementeringen af kernemodulet, hvorefter implementeringen og projektet blev tilknyttet en række afledte projekter. Her fortsatte jeg som projektdeltager til afslutningen af projekterne.
 
 _C#, .NET Core, XUnit_
+
+### Launch, Public Ally
+
+**Softwarearkitekt / udvikler / medejer**
+
+Idéen bag Launch var at gøre udbudsprocesser nemmere for offentlige udbydere, ved at projektstyre processen og dialogen med de potentielle leverandører, og samtidig integrere til udbudsportalen og EU's TED-systemer. Jeg var del af gruppen, der udtænkte og udviklede produktet fra grunden. Idéen var god, men gruppen savnede erfaring med at eksekvere et produktudviklingsforløb i denne skala. Vi løb derfor tør for ressourcer, og projektet er mit fejlede startup.
+
+_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
 
 ### Bestillingsapplikation, Moderniseringsstyrelsen
 
@@ -202,7 +210,7 @@ _PHP, TYPO3, MySQL, JavaScript, jQuery,  Git_
 
 ### Website, Administrationshuset
 
-**Lead developer / Udvikler**
+**Lead developer**
 
 Komponent-udvikling til administration af andelsforeninger.
 
@@ -214,7 +222,7 @@ Pro-bono projekter.
 
 - Design og implementering af website til forfatterinde [Line-Maria Lång](http://linemaria.dk/).
 - Design og implementering af website til [Det Lille Risteri](http://detlilleristeri.dk/).
-- Moduler til review og kommentering på [Pantbørsens hjemmeside](http://pantborsen.dk/).
+- Moduler til review og kommentering på [Pantbørsens](http://pantborsen.dk/) website.
 - Green footsteps, Roskilde Festival - dokumentationssystem til godkendelse af "green achievements", hvor festivaldeltagere, der ønskede at bo i festivalens grønne camp kunne få adgangskravene godkendt.
 - Teknisk implementering af website til [Iværksætterhjælpen](http://ivaerksaetterhjaelpen.dk/).
 - Teknisk implementering af website til [Transmogriffen](http://transmogriffen.dk/).

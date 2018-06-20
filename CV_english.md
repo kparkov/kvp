@@ -12,7 +12,7 @@ Tranevej 15, 2. th.
 
 ---
 
-Full-stack / backend developer with focus on software architecture and with leader experience. Started my career with focus on web, and have since moved towards more complicated software systems within medicine, research and administration. I have clear strengths on the backend side of development, but I still have a lot of experience implementing a web interface in the form of a REST API and a React frontend.
+Full-stack / backend developer with focus on software architecture and with leader experience. Started my career with focus on web, and have since moved towards more complicated software systems within public administration, research and finance. I have clear strengths on the backend side of development, but I still have a lot of experience implementing a web interface in the form of a REST API and a React frontend.
 
 In 2013 I started my own company ([Bitkompagniet](http://bitkompagniet.dk) - Danish only), and have done a number of projects both as a supplier and an on-site consultant. My role has varied greatly - some projects I have done alone, in others I have been a team member or technical lead.
 
@@ -22,7 +22,7 @@ I live in Copenhagen with my girlfriend Ida and our daughter Liva.
 
 ### Keywords
 
-_Software architecture, C#, .NET, Javascript, PHP, SQL, MongoDB, REST API, Git, Docker, Test Driven Development (TDD), managerial experience, communication, Scrum_
+_Software architecture, C#, .NET, Javascript / Node.js, React, PHP, SQL, MongoDB, REST API, Git, Docker, Test Driven Development (TDD), managerial experience, communication, Scrum_
 
 # Experience
 
@@ -90,11 +90,19 @@ Udvalgte aktiviteter:
 
 ### Core libraries for protein modelling, Novo Nordisk A/S
 
-**Software architect / developer (on-site consultant)**
+**Software architect / developer / on-site consultant**
 
 Re-implementation of existing core libraries in a more modern programming language, with a number of specification adjustments. Core libraries for runtime modelling of molecules and protein structures, with analysis and optimization. Worked solo on the core library, after which the implementation and the project was brought into a broader scope in a number of dependent projects. I continued as a project member until the end of all the projects.
 
 _C#, .NET Core, XUnit_
+
+### Launch, Public Ally
+
+**Software architect / developer / co-owner**
+
+The idea behind Launch was to make public procurement easier for the public sector, by offering tools to manage and control the process and dialogue with potential suppliers, while also integrating with the Danish portal for procurements and EU's TED systems. I was a part of the group who developed the idea and the product from the bottom. The idea was good and found a lot of support, but the group lacked experience in executing an ambitious product development process. We ran out of resources, and the project became my failed startup.
+
+_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
 
 ### Framework agreement order application, Moderniseringsstyrelsen
 
@@ -180,50 +188,45 @@ Udvikling af regnskabssystem til at styre offentlige refusioner i ØSC-området.
 
 _C#, .NET MVC, MSSQL, JavaScript, Git_
 
-### Webshop til børnetøj, Ticket to Heaven
+### Webshop for children's clothes, Ticket to Heaven
 
-**Udvikler**
+**Developer**
 
-Vedligeholdelse og udvikling af mindre, nye features i TYPO3-baseret webshop.
+Maintenance and development of small new features in a TYPO3 based webshop.
 
 _PHP, TYPO3, MySQL, JavaScript, Ember.js, jQuery, Git_
 
 ### TopDanmark
 
-**Udvikler / On-site konsulent**
+**Developer / on-site consultant**
 
-Udvikling af komponenter til selvbetjening på TopDanmarks hjemmeside i forbindelse med re-launch.
+Development of components for the self-service system on TopDanmarks website, in connection to a re-launch of the main website.
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
 ### Website, Statens Museum for Kunst
 
-**Udvikler**
+**Developer**
 
-Udvikling af komponenter til events og udstillinger til hjemmesiden.
+Development of components for events and exhibitions for the website.
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery,  Git_
 
 ### Website, Administrationshuset
 
-**Lead developer / Udvikler**
+**Lead developer**
 
-Komponent-udvikling til administration af andelsforeninger.
+Development of components for administration of housing cooperatives (Danish: "andelsboligforeninger").
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, SVN_
 
-# Side-projekter
+# Volunteer work
 
-### Green footsteps, Roskilde festival
+Pro-bono projects.
 
-Et dokumentationssystem til godkendelse af "green achievements", hvor festivaldeltagere, der ønskede at bo i festivalens grønne camp kunne få adgangskravene godkendt. Adgangskravene omfattede f.eks. at indlevere en bestemt mængde pant, sortere affald eller lignende. For at bestå, skulle de enkelte benspænd modsvares af beskrivelse og fotodokumentation.
-
-### Moduler, Pantbørsens website
-
-
-
-### Website, Iværksætterhjælpen
-
-### Website, Transmogriffen
-
-### Cards
+- Design and implementation of website for the author [Line-Maria Lång](http://linemaria.dk/).
+- Design and implementation of website for [Det Lille Risteri](http://detlilleristeri.dk/) (English: "The small roastery").
+- Modules for review and commenting on [Pantbørsens](http://pantborsen.dk/) website.
+- Green footsteps, Roskilde Festival - documentation system for reviewing "green achievements", where festival guests wanting to live in the green camp could be accepted.
+- Implementation of website for [Iværksætterhjælpen](http://ivaerksaetterhjaelpen.dk/).
+- Implementation of website for [Transmogriffen](http://transmogriffen.dk/).
