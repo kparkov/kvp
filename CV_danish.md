@@ -12,7 +12,7 @@ Tranevej 15, 2. th.
 
 ---
 
-Full-stack / backend udvikler med fokus på softwarearkitektur og ledererfaring. Startede min karriere med fokus på web, og har sidenhen bevæget mig hen mod mere komplicerede softwaresystemer indenfor medicin, forskning og administration. Jeg er klart stærkest indenfor backend-udvikling, men der er ofte en grænseflade til web i form af et REST API og f.eks. en React frontend.
+Full-stack / backend udvikler med fokus på softwarearkitektur og ledererfaring. Startede min karriere med fokus på web, og har sidenhen bevæget mig hen mod mere komplicerede softwaresystemer indenfor offentlig administration, forskning og økonomi. Jeg er klart stærkest indenfor backend-udvikling, men der er ofte en grænseflade til web i form af et REST API og f.eks. en React frontend.
 
 Jeg startede i 2013 eget firma ([Bitkompagniet](http://bitkompagniet.dk)), og har her gennemført en række projekter både som leverandør og on-site konsulent, hvor jeg har spændt vidt i forhold til roller. Nogle projekter har jeg været ene om at gennemføre, i andre er jeg indgået som projektdeltager eller teknisk leder.
 
@@ -48,7 +48,7 @@ Team lead på et fire mands udviklingshold. Udvikling af web-applikationer og we
 - Kvalitetssikring af holdets udvikling
 - Udvikling i PHP, javascript, HTML/CSS, MySQL
 - Moduludvikling og website-implementering
-- On-site konsulent i perioder
+- On-site konsulent i en periode
 
 Projekter omfatter:
 
@@ -75,13 +75,14 @@ Udvalgte aktiviteter:
 - Speciale i udvikling af rehabiliteringsværktøjer til afasi-patienter med inspiration fra spil. Karakter: 12.
 - Eksperimentelt samarbejde med Danmarks Radio om at lave nyhedsspil i Flash, der blev offentliggjort på DR's website.
 - Kurser i kunstig intelligens, udvikling i 3D engines (Unity) og gamification.
+- To studiejobs - som studenterstudievejleder på universitetet og udvikler i et pensionsselskab.
 
-### ba.soc., Communication & Computer Science, Roskilde Universitet
+### ba.soc., Kommunikation og Datalogi, Roskilde Universitet
 **2002 - 2005**
 
 Udvalgte aktiviteter:
 
-- Bacheloropgave i virtuelle rum som platform for samarbejde.
+- Bacheloropgave i virtuelle rum som platform for samarbejde (CSCW).
 - Kurser i programmering (Java), SQL-databaser (SQL), Domain Driven Design, m.fl.
 - Samfundsvidenskabelig basisuddannelse med fokus på kvantitativ analyse og økonomi.
 
@@ -89,11 +90,19 @@ Udvalgte aktiviteter:
 
 ### Kernemoduler til proteinmodellering, Novo Nordisk A/S
 
-**Softwarearkitekt / Udvikler (on-site konsulent)**
+**Softwarearkitekt / Udvikler / on-site konsulent**
 
-Re-implementering af eksisterende kernemoduler i et moderne sprog, med en række tilpasninger til specifikationen. Kernemoduler til runtime-modellering af molekyler og proteinstrukturer, samt analyse og tilpasning af disse. Arbejdede solo på implementeringen af kernemodulet, hvorefter implementeringen og projektet blev tilknyttet en række afledte projekter. Her fortsatte jeg som projektdeltager til afslutningen af projekterne.
+Re-implementering af eksisterende kernemoduler i et moderne sprog, med en række tilpasninger til specifikationen. Kernemoduler til runtime-modellering af molekyler og proteinstrukturer, samt analyse og optimering af disse. Arbejdede solo på implementeringen af kernemodulet, hvorefter implementeringen og projektet blev tilknyttet en række afledte projekter. Her fortsatte jeg som projektdeltager til afslutningen af projekterne.
 
 _C#, .NET Core, XUnit_
+
+### Launch, Public Ally
+
+**Softwarearkitekt / udvikler / medejer**
+
+Idéen bag Launch var at gøre udbudsprocesser nemmere for offentlige udbydere, ved at projektstyre processen og dialogen med de potentielle leverandører, og samtidig integrere til udbudsportalen og EU's TED-systemer. Jeg var del af gruppen, der udtænkte og udviklede produktet fra grunden. Idéen var god, men gruppen savnede erfaring med at eksekvere et produktudviklingsforløb i denne skala. Vi løb derfor tør for ressourcer, og projektet er mit fejlede startup.
+
+_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
 
 ### Bestillingsapplikation, Moderniseringsstyrelsen
 
@@ -123,7 +132,7 @@ _C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
 
 **Rådgivende softwarearkitekt**
 
-Værktøj til at lave hjemmesider uden teknisk viden, udbudt til private og små virksomheder. Microservice-arkitektur. Store frontend-udfordringer med krav om at kunne redigere og udskifte styles live.
+Værktøj til at lave hjemmesider uden teknisk viden, udbudt til private og små virksomheder. Microservice-arkitektur. Store frontend-udfordringer med krav om at kunne redigere skabeloner og stylesheets direkte i browseren.
 
 _Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
 
@@ -131,21 +140,19 @@ _Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
 
 **Softwarearkitekt / Udvikler**
 
-Produktionsvirksomheder har restressourcer, der hurtigt kan blive til spild. Projektets formål var at finde symbioser imellem virksomheder, hvor den ene virksomhed gerne vil anskaffe sig den andens restressource. Løst gennem en overskuelig database, der giver indblik i både ressourcen, og hvor langt den er væk.
+Produktionsvirksomheder producerer spild, der kan være ressourcer for andre virksomheder. Målet med dette projekt var at forbinde disse virksomheder på en måde, der hjalp begge parter til at spare penge og reducere det miljømæssige fodaftryk. Løst gennem en brugervenlig database, der giver et hurtigt overblik over de nærmeste spild-til-ressource-forbindelser.
 
 _C#, .NET MVC, MySQL, MongoDB, JavaScript, Git_
-
 
 ### Studielån selvbetjening, Statens Administration
 
 **Softwarearkitekt / Udvikler**
 
-Udvikling af offentlig selvbetjeningsløsning til administration af private studielån på borger.dk. Her kan brugeren se sin restgæld, amortisation og bestille ændringer til afdraget. Kompliceret synkronisering med den database, der indeholder oplysninger om alle lånene.
+Udvikling af den offentlige selvbetjeningsløsning til administration af private studielån på borger.dk. Her kan brugeren se status for gælden og ændre afdragsordningen indenfor en række restriktioner. Kompliceret synkronisering med den database, der indeholder oplysninger om alle lånene.
 
 _C#, .NET MVC, MSSQL, JavaScript, Git_
 
-
-### Relevant Media
+### Udgivelsesværktøj, Relevant Media
 
 **Softwarearkitekt / Udvikler**
 
@@ -153,9 +160,9 @@ Udvikling af hub-platform til publicering af kampagner for annoncører på tvær
 
 _Node.js, Express, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
 
-### Danmarks Meteorologiske Institut (DMI)
+### Website, Danmarks Meteorologiske Institut (DMI)
 
-**Softwarearkitekt / Lead developer / Underviser / Udvikler**
+**Softwarearkitekt / lead udvikler / underviser**
 
 Etablering af nyt website baseret på TYPO3, samt opkvalificering af in-house udviklerne til at kunne udvikle komponenter til platformen.
 
@@ -163,15 +170,15 @@ _PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
 ### Web-platform, VUC
 
-**Softwarearkitekt / Lead developer / Underviser / Udvikler**
+**Softwarearkitekt / lead udvikler**
 
-Etablering af fælles web-platform for 11 VUC-centre, samt plugin-udvikling til undervisningsplanlægning og studieadministration. Undervisning af VUC’s personale i brug af platformen.
+Etablering af fælles web-platform for 11 VUC-centre, samt plugin-udvikling til undervisningsplanlægning og studieadministration.
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
 ### Regnskabssystem til refusioner, Statens Administration
 
-**Softwarearkitekt / Teknisk projektleder / Udvikler**
+**Softwarearkitekt / udvikler**
 
 Udvikling af regnskabssystem til at styre offentlige refusioner i ØSC-området. Kompliceret datamodel og arbejdsgange, samt tunge beregninger og krav om præcision og sikkerhed.
 
@@ -203,7 +210,7 @@ _PHP, TYPO3, MySQL, JavaScript, jQuery,  Git_
 
 ### Website, Administrationshuset
 
-**Lead developer / Udvikler**
+**Lead developer**
 
 Komponent-udvikling til administration af andelsforeninger.
 
@@ -215,7 +222,7 @@ Pro-bono projekter.
 
 - Design og implementering af website til forfatterinde [Line-Maria Lång](http://linemaria.dk/).
 - Design og implementering af website til [Det Lille Risteri](http://detlilleristeri.dk/).
-- Moduler til review og kommentering på [Pantbørsens hjemmeside](http://pantborsen.dk/).
+- Moduler til review og kommentering på [Pantbørsens](http://pantborsen.dk/) website.
 - Green footsteps, Roskilde Festival - dokumentationssystem til godkendelse af "green achievements", hvor festivaldeltagere, der ønskede at bo i festivalens grønne camp kunne få adgangskravene godkendt.
 - Teknisk implementering af website til [Iværksætterhjælpen](http://ivaerksaetterhjaelpen.dk/).
 - Teknisk implementering af website til [Transmogriffen](http://transmogriffen.dk/).

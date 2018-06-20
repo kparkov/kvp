@@ -2,9 +2,31 @@
 
 This is a repository containing my online resumé.
 
-## What are you looking for?
+## Contents
 
-- [View my Danish CV](CV_danish.md) or [download it as a PDF](CV_danish.pdf).
-- Soon I will make my resumé available in English.
-- Take a look at my [LinkedIn profile](https://www.linkedin.com/in/kparkov/), which is also my preferred channel of communication. I will accept all connections with interest in my professional profile.
-- I am the owner of Bitkompagniet ApS, which of course has a [website](http://bitkompagniet.dk/).
+### Resumé (CV)
+#### Danish version
+
+[View the Danish version](CV_danish.md)
+
+If you need to copy/paste the contents into a template, the CV can also be downloaded in the following formats:
+
+- [PDF](CV_danish.pdf)
+- [Word (.docx)](CV_danish.docx)
+- [Raw text (markdown)](https://raw.githubusercontent.com/kparkov/kvp/master/CV_danish.md)
+
+#### English version
+
+[View the English version](CV_english.md)
+
+If you need to copy/paste the contents into a template, the CV can also be downloaded in the following formats:
+
+- [PDF](CV_english.pdf)
+- [Word (.docx)](CV_english.docx)
+- [Raw text (markdown)](https://raw.githubusercontent.com/kparkov/kvp/master/CV_english.md)
+
+### Other resources
+
+- [Profile image (stand-alone)](profile.jpg)
+- My [LinkedIn profile](https://www.linkedin.com/in/kparkov/) is also my preferred channel of communication, and I will accept all connections with interest in my professional profile.
+- The website of [Bitkompagniet](http://bitkompagniet.dk/), which is my company profile.
