@@ -24,4 +24,3 @@ If you need to print or copy/paste the contents into a template, I offer these a
 - [Profile image (stand-alone)](profile.jpg)
 - My [LinkedIn profile](https://www.linkedin.com/in/kparkov/) is also my preferred channel of communication, and I will accept all connections with interest in my professional profile.
 - The website of [Bitkompagniet](http://bitkompagniet.dk/), which is my company profile.
-- And if you are bored, [here is something pointless I made](http://showcase.parkov.dk/cardgame/).

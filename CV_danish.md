@@ -90,79 +90,98 @@ Udvalgte aktiviteter:
 
 ### Kernemoduler til proteinmodellering, Novo Nordisk A/S
 
-**Softwarearkitekt / Udvikler / on-site konsulent**
+**Softwarearkitekt / Udvikler / on-site konsulent**  
+Aug 2017 - Jun 2018
 
 Re-implementering af eksisterende kernemoduler i et moderne sprog, med en række tilpasninger til specifikationen. Kernemoduler til runtime-modellering af molekyler og proteinstrukturer, samt analyse og optimering af disse. Arbejdede solo på implementeringen af kernemodulet, hvorefter implementeringen og projektet blev tilknyttet en række afledte projekter. Her fortsatte jeg som projektdeltager til afslutningen af projekterne.
 
 _C#, .NET Core, XUnit_
 
-### Launch, Public Ally
-
-**Softwarearkitekt / udvikler / medejer**
-
-Idéen bag Launch var at gøre udbudsprocesser nemmere for offentlige udbydere, ved at projektstyre processen og dialogen med de potentielle leverandører, og samtidig integrere til udbudsportalen og EU's TED-systemer. Jeg var del af gruppen, der udtænkte og udviklede produktet fra grunden. Idéen var god, men gruppen savnede erfaring med at eksekvere et produktudviklingsforløb i denne skala. Vi løb derfor tør for ressourcer, og projektet er mit fejlede startup.
-
-_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
-
-### Bestillingsapplikation, Moderniseringsstyrelsen
-
-**Softwarearkitekt / Udvikler**
-
-Bestillingsapplikation til offentligt ansatte, der skal indkøbe materialer eller hotelophold gennem rammeaftaler. Først sammensættes kurven, derefter finder systemet den mest fordelagtige leverandør og sender ordren.
-
-_C#, .NET MVC, JavaScript, MSSQL, HTML5 / Sass / CSS3, Foundation (CSS), Git_
-
-### Aggregering af revenue-data, Relevant Media
-
-**Softwarearkitekt / Teknisk projektleder / Udvikler**
-
-Værktøj til aggregering og visualisering af revenue-data for udgivere, der præsenterer bannerreklamer fra en række forskellige kilder. Data synkroniseres og masseres til en samlet datamodel, der herefter er egnet til hurtige og fleksible forespørgsler. Microservice-arkitektur.
-
-_Node.js, Express, MongoDB, ES6, React, Docker, Webpack, Git_
-
-### Selvbetjening for medlemmer, Danske Fysioterapeuter
-
-**Softwarearkitekt / Udvikler**
-
-Selvbetjeningssystem til indmeldelse og administration for eksisterende medlemmer. Omfattende indsamling af data om medlem med komplicerede forgreninger. Integration med interne forretningssystemer (f.eks. Navision).
-
-_C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
-
 ### Website build tool, Svift
 
-**Rådgivende softwarearkitekt**
+**Rådgivende softwarearkitekt**  
+Jun 2016 - Aug 2017
 
 Værktøj til at lave hjemmesider uden teknisk viden, udbudt til private og små virksomheder. Microservice-arkitektur. Store frontend-udfordringer med krav om at kunne redigere skabeloner og stylesheets direkte i browseren.
 
-_Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
+_Microservices, Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
 
 ### Symbiosedatabase, Dansk SymbioseCenter
 
-**Softwarearkitekt / Udvikler**
+**Softwarearkitekt / Udvikler**  
+Jan 2017 - Jun 2017
 
 Produktionsvirksomheder producerer spild, der kan være ressourcer for andre virksomheder. Målet med dette projekt var at forbinde disse virksomheder på en måde, der hjalp begge parter til at spare penge og reducere det miljømæssige fodaftryk. Løst gennem en brugervenlig database, der giver et hurtigt overblik over de nærmeste spild-til-ressource-forbindelser.
 
 _C#, .NET MVC, MySQL, MongoDB, JavaScript, Git_
 
+### Bestillingsapplikation, Moderniseringsstyrelsen
+
+**Softwarearkitekt / Udvikler**  
+Nov 2015 - Jun 2016
+
+Bestillingsapplikation til offentligt ansatte, der skal indkøbe materialer eller hotelophold gennem rammeaftaler. Først sammensættes kurven, derefter finder systemet den mest fordelagtige leverandør og sender ordren.
+
+_C#, .NET MVC, JavaScript, MSSQL, HTML5 / Sass / CSS3, Foundation (CSS), Git_
+
+### Launch, Public Ally
+
+**Softwarearkitekt / udvikler / medejer**  
+Aug 2015 - Jun 2016
+
+Idéen bag Launch var at gøre udbudsprocesser nemmere for offentlige udbydere, ved at projektstyre processen og dialogen med de potentielle leverandører, og samtidig integrere til udbudsportalen og EU's TED-systemer. Jeg var del af gruppen, der udtænkte og udviklede produktet fra grunden. Idéen var god, men gruppen savnede erfaring med at eksekvere et produktudviklingsforløb i denne skala. Vi løb derfor tør for ressourcer, og projektet er mit fejlede startup.
+
+_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
+
+### Aggregering af revenue-data, Relevant Media
+
+**Softwarearkitekt / Teknisk projektleder / Udvikler**  
+Maj 2015 - Aug 2017
+
+Værktøj til aggregering og visualisering af revenue-data for udgivere, der præsenterer bannerreklamer fra en række forskellige kilder. Data synkroniseres og masseres til en samlet datamodel, der herefter er egnet til hurtige og fleksible forespørgsler. Microservice-arkitektur.
+
+_Node.js, Express, MongoDB, ES6, React, Docker, Webpack, Git_
+
+### Udgivelsesværktøj, Relevant Media
+
+**Softwarearkitekt / Udvikler**  
+Nov 2014 - Aug 2017
+
+Udvikling af hub-platform til publicering af kampagner for annoncører på tværs af en række forskellige adservers. 
+
+_C#, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
+
+### Selvbetjening for medlemmer, Danske Fysioterapeuter
+
+**Softwarearkitekt / Udvikler**  
+Siden dec 2014 (tilbagevendende opgaver)
+
+Selvbetjeningssystem til indmeldelse og administration for eksisterende medlemmer. Omfattende indsamling af data om medlem med komplicerede forgreninger. Integration med interne forretningssystemer (f.eks. Navision).
+
+_C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
+
 ### Studielån selvbetjening, Statens Administration
 
-**Softwarearkitekt / Udvikler**
+**Softwarearkitekt / Udvikler**  
+Nov 2013 - Maj 2014
 
 Udvikling af den offentlige selvbetjeningsløsning til administration af private studielån på borger.dk. Her kan brugeren se status for gælden og ændre afdragsordningen indenfor en række restriktioner. Kompliceret synkronisering med den database, der indeholder oplysninger om alle lånene.
 
 _C#, .NET MVC, MSSQL, JavaScript, Git_
 
-### Udgivelsesværktøj, Relevant Media
+### Regnskabssystem til refusioner, Statens Administration
 
-**Softwarearkitekt / Udvikler**
+**Softwarearkitekt / udvikler**  
+Maj 2013 - Jun 2014
 
-Udvikling af hub-platform til publicering af kampagner for annoncører på tværs af en række forskellige adservers. 
+Udvikling af regnskabssystem til at styre offentlige refusioner i ØSC-området. Kompliceret datamodel og arbejdsgange, samt tunge beregninger og krav om præcision og sikkerhed.
 
-_Node.js, Express, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
+_C#, .NET MVC, MSSQL, JavaScript, Git_
 
 ### Website, Danmarks Meteorologiske Institut (DMI)
 
-**Softwarearkitekt / lead udvikler / underviser**
+**Softwarearkitekt / lead udvikler / underviser**  
+2011 - 2012
 
 Etablering af nyt website baseret på TYPO3, samt opkvalificering af in-house udviklerne til at kunne udvikle komponenter til platformen.
 
@@ -170,39 +189,17 @@ _PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
 ### Web-platform, VUC
 
-**Softwarearkitekt / lead udvikler**
+**Softwarearkitekt / lead udvikler**  
+2011 - 2012
 
 Etablering af fælles web-platform for 11 VUC-centre, samt plugin-udvikling til undervisningsplanlægning og studieadministration.
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
-### Regnskabssystem til refusioner, Statens Administration
-
-**Softwarearkitekt / udvikler**
-
-Udvikling af regnskabssystem til at styre offentlige refusioner i ØSC-området. Kompliceret datamodel og arbejdsgange, samt tunge beregninger og krav om præcision og sikkerhed.
-
-_C#, .NET MVC, MSSQL, JavaScript, Git_
-
-### Webshop til børnetøj, Ticket to Heaven
-
-**Udvikler**
-
-Vedligeholdelse og udvikling af mindre, nye features i TYPO3-baseret webshop.
-
-_PHP, TYPO3, MySQL, JavaScript, Ember.js, jQuery, Git_
-
-### TopDanmark
-
-**Udvikler (on-site konsulent)**
-
-Udvikling af komponenter til selvbetjening på TopDanmarks hjemmeside i forbindelse med re-launch.
-
-_PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
-
 ### Website, Statens Museum for Kunst
 
-**Udvikler**
+**Udvikler**  
+2011 - 2013
 
 Udvikling af komponenter til events og udstillinger til hjemmesiden.
 
@@ -210,11 +207,30 @@ _PHP, TYPO3, MySQL, JavaScript, jQuery,  Git_
 
 ### Website, Administrationshuset
 
-**Lead developer**
+**Lead developer**  
+2011 - 2013
 
 Komponent-udvikling til administration af andelsforeninger.
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, SVN_
+
+### Webshop til børnetøj, Ticket to Heaven
+
+**Udvikler**  
+2011
+
+Vedligeholdelse og udvikling af mindre, nye features i TYPO3-baseret webshop.
+
+_PHP, TYPO3, MySQL, JavaScript, Ember.js, jQuery, Git_
+
+### TopDanmark
+
+**Udvikler (on-site konsulent)**  
+Maj 2011 - Sep 2011
+
+Udvikling af komponenter til selvbetjening på TopDanmarks hjemmeside i forbindelse med re-launch.
+
+_PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
 # Frivilligt arbejde
 

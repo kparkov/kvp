@@ -90,47 +90,17 @@ Udvalgte aktiviteter:
 
 ### Core libraries for protein modelling, Novo Nordisk A/S
 
-**Software architect / developer / on-site consultant**
+**Software architect / developer / on-site consultant**  
+Aug 2017 - Jun 2018
 
 Re-implementation of existing core libraries in a more modern programming language, with a number of specification adjustments. Core libraries for runtime modelling of molecules and protein structures, with analysis and optimization. Worked solo on the core library, after which the implementation and the project was brought into a broader scope in a number of dependent projects. I continued as a project member until the end of all the projects.
 
 _C#, .NET Core, XUnit_
 
-### Launch, Public Ally
-
-**Software architect / developer / co-owner**
-
-The idea behind Launch was to make public procurement easier for the public sector, by offering tools to manage and control the process and dialogue with potential suppliers, while also integrating with the Danish portal for procurements and EU's TED systems. I was a part of the group who developed the idea and the product from the bottom. The idea was good and found a lot of support, but the group lacked experience in executing an ambitious product development process. We ran out of resources, and the project became my failed startup.
-
-_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
-
-### Framework agreement order application, Moderniseringsstyrelsen
-
-**Software architect / developer**
-
-An application for the public sector, when employees need to buy materials or book hotels under a framework agreement. First the basket is filled, then the system findes the best supplier and sends the order.
-
-_C#, .NET MVC, JavaScript, MSSQL, HTML5 / Sass / CSS3, Foundation (CSS), Git_
-
-### Aggregation of revenue data, Relevant Media
-
-**Softwarearkitekt / Teknisk projektleder / Udvikler**
-
-Tool for aggregating and visualizing revenue data for publishers, who present banner ads from a range of sources. Data is synchronized and massaged to fit a common data model, after which it can be effectively queried. Followed a microservice architecture.
-
-_Microservices, Node.js, Express, MongoDB, ES6, React, Docker, Webpack, Git_
-
-### Self service platform for members, Danish Selvbetjening for medlemmer, The Association of Danish Physiotherapists
-
-**Software architect / developer**
-
-Self service system for registration and administration for existing members. Comprehensive data collection with complicated branching and member categories.  Integration with internal business systems (Navision).
-
-_C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
-
 ### Website build tool, Svift
 
-**Software architect in an advisory capacity**
+**Software architect in an advisory capacity**  
+Jun 2016 - Aug 2017
 
 Tool to make websites with no techincal skills, offered for personal use and small businesses. Great frontend challenges with requirements for editing templates and stylesheets in the browser.
 
@@ -140,47 +110,71 @@ _Microservices, Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
 
 ### Symbiosis database, Dansk SymbioseCenter
 
-**Software architect / developer**
+**Software architect / developer**  
+Jan 2017 - Jun 2017
 
 Production companies produce waste, which might be resources for some other companies. The goal of this project was to connect these companies in a way that helped both parties to save money while reducing the their environmental footprint. Solved through a user friendly database, that can easily identify the closest waste-to-resource connection.
 
 _C#, .NET MVC, MySQL, MongoDB, JavaScript, Git_
 
-### Student loan self service, Statens Administration
+### Framework agreement order application, Moderniseringsstyrelsen
 
-**Software architect / developer**
+**Software architect / developer**  
+Nov 2015 - Jun 2016
 
-Development of the public self service system for administration of personal student loans on borger.dk. The user can see status of their debt and change the rate of repayment within a set of restrictions. Complicated synchronization with the database that contain all student loans.
+An application for the public sector, when employees need to buy materials or book hotels under a framework agreement. First the basket is filled, then the system findes the best supplier and sends the order.
 
-_C#, .NET MVC, MSSQL, JavaScript, Git_
+_C#, .NET MVC, JavaScript, MSSQL, HTML5 / Sass / CSS3, Foundation (CSS), Git_
+
+### Launch, Public Ally
+
+**Software architect / developer / co-owner**  
+Aug 2015 - Jun 2016
+
+The idea behind Launch was to make public procurement easier for the public sector, by offering tools to manage and control the process and dialogue with potential suppliers, while also integrating with the Danish portal for procurements and EU's TED systems. I was a part of the group who developed the idea and the product from the bottom. The idea was good and found a lot of support, but the group lacked experience in executing an ambitious product development process. We ran out of resources, and the project became my failed startup.
+
+_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
+
+### Aggregation of revenue data, Relevant Media
+
+**Softwarearkitekt / Teknisk projektleder / Udvikler**  
+Maj 2015 - Aug 2017
+
+Tool for aggregating and visualizing revenue data for publishers, who present banner ads from a range of sources. Data is synchronized and massaged to fit a common data model, after which it can be effectively queried. Followed a microservice architecture.
+
+_Microservices, Node.js, Express, MongoDB, ES6, React, Docker, Webpack, Git_
 
 ### Publishing tool, Relevant Media
 
-**Software architect / developer**
+**Software architect / developer**  
+Nov 2014 - Aug 2017
 
 Development of a hub for publication of ad campaigns for advertisers, across a range of ad systems.
 
 _Node.js, Express, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
 
-### Website, Danish Meteorological Institute (DMI)
+### Self service platform for members, Danish Selvbetjening for medlemmer, The Association of Danish Physiotherapists
 
-**Software architect / lead developer / teacher**
+**Software architect / developer**  
+Since Dec 2014 (recurring assignments)
 
-New website based on TYPO3, and training of their development team for extending the functionality with TYPO3 extensions.
+Self service system for registration and administration for existing members. Comprehensive data collection with complicated branching and member categories.  Integration with internal business systems (Navision).
 
-_PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
+_C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
 
-### Web-platform, VUC
+### Student loan self service, Statens Administration
 
-**Software architect / lead developer**
+**Software architect / developer**  
+Nov 2013 - May 2014
 
-Shared web platform for 11 VUC centers, and plugin development for educational planning and study administration.
+Development of the public self service system for administration of personal student loans on borger.dk. The user can see status of their debt and change the rate of repayment within a set of restrictions. Complicated synchronization with the database that contain all student loans.
 
-_PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
+_C#, .NET MVC, MSSQL, JavaScript, Git_
 
 ### Accounting system for refusions, Statens Administration
 
-**Software architect / developer**
+**Software architect / developer**  
+May 2013 - Jun 2014
 
 Development of accounting system for handling public refusions within the ØSC area. Complicated data model and workflows, heavily regulated.
 
@@ -188,25 +182,28 @@ Udvikling af regnskabssystem til at styre offentlige refusioner i ØSC-området.
 
 _C#, .NET MVC, MSSQL, JavaScript, Git_
 
-### Webshop for children's clothes, Ticket to Heaven
+### Website, Danish Meteorological Institute (DMI)
 
-**Developer**
+**Software architect / lead developer / teacher**  
+2011 - 2012
 
-Maintenance and development of small new features in a TYPO3 based webshop.
+New website based on TYPO3, and training of their development team for extending the functionality with TYPO3 extensions.
 
-_PHP, TYPO3, MySQL, JavaScript, Ember.js, jQuery, Git_
+_PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
-### TopDanmark
+### Web-platform, VUC
 
-**Developer / on-site consultant**
+**Software architect / lead developer**  
+2011 - 2012
 
-Development of components for the self-service system on TopDanmarks website, in connection to a re-launch of the main website.
+Shared web platform for 11 VUC centers, and plugin development for educational planning and study administration.
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
 ### Website, Statens Museum for Kunst
 
-**Developer**
+**Developer**  
+2011 - 2013
 
 Development of components for events and exhibitions for the website.
 
@@ -214,11 +211,30 @@ _PHP, TYPO3, MySQL, JavaScript, jQuery,  Git_
 
 ### Website, Administrationshuset
 
-**Lead developer**
+**Lead developer**  
+2011 - 2013
 
 Development of components for administration of housing cooperatives (Danish: "andelsboligforeninger").
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, SVN_
+
+### Webshop for children's clothes, Ticket to Heaven
+
+**Developer**  
+2011
+
+Maintenance and development of small new features in a TYPO3 based webshop.
+
+_PHP, TYPO3, MySQL, JavaScript, Ember.js, jQuery, Git_
+
+### TopDanmark
+
+**Developer / on-site consultant**  
+May 2011 - Sep 2011
+
+Development of components for the self-service system on TopDanmarks website, in connection to a re-launch of the main website.
+
+_PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
 # Volunteer work
 
