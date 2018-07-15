@@ -91,29 +91,20 @@ Udvalgte aktiviteter:
 ### Kernemoduler til proteinmodellering, Novo Nordisk A/S
 
 **Softwarearkitekt / Udvikler / on-site konsulent**  
-Aug. 2017 - Jun. 2018
+Aug 2017 - Jun 2018
 
 Re-implementering af eksisterende kernemoduler i et moderne sprog, med en række tilpasninger til specifikationen. Kernemoduler til runtime-modellering af molekyler og proteinstrukturer, samt analyse og optimering af disse. Arbejdede solo på implementeringen af kernemodulet, hvorefter implementeringen og projektet blev tilknyttet en række afledte projekter. Her fortsatte jeg som projektdeltager til afslutningen af projekterne.
 
 _C#, .NET Core, XUnit_
 
-### Launch, Public Ally
-
-**Softwarearkitekt / udvikler / medejer**  
-Aug. 2015 - Jun. 2016
-
-Idéen bag Launch var at gøre udbudsprocesser nemmere for offentlige udbydere, ved at projektstyre processen og dialogen med de potentielle leverandører, og samtidig integrere til udbudsportalen og EU's TED-systemer. Jeg var del af gruppen, der udtænkte og udviklede produktet fra grunden. Idéen var god, men gruppen savnede erfaring med at eksekvere et produktudviklingsforløb i denne skala. Vi løb derfor tør for ressourcer, og projektet er mit fejlede startup.
-
-_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
-
 ### Website build tool, Svift
 
 **Rådgivende softwarearkitekt**  
-Jun. 2016 - Aug. 2017
+Jun 2016 - Aug 2017
 
 Værktøj til at lave hjemmesider uden teknisk viden, udbudt til private og små virksomheder. Microservice-arkitektur. Store frontend-udfordringer med krav om at kunne redigere skabeloner og stylesheets direkte i browseren.
 
-_Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
+_Microservices, Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
 
 ### Symbiosedatabase, Dansk SymbioseCenter
 
@@ -132,6 +123,15 @@ Nov 2015 - Jun 2016
 Bestillingsapplikation til offentligt ansatte, der skal indkøbe materialer eller hotelophold gennem rammeaftaler. Først sammensættes kurven, derefter finder systemet den mest fordelagtige leverandør og sender ordren.
 
 _C#, .NET MVC, JavaScript, MSSQL, HTML5 / Sass / CSS3, Foundation (CSS), Git_
+
+### Launch, Public Ally
+
+**Softwarearkitekt / udvikler / medejer**  
+Aug 2015 - Jun 2016
+
+Idéen bag Launch var at gøre udbudsprocesser nemmere for offentlige udbydere, ved at projektstyre processen og dialogen med de potentielle leverandører, og samtidig integrere til udbudsportalen og EU's TED-systemer. Jeg var del af gruppen, der udtænkte og udviklede produktet fra grunden. Idéen var god, men gruppen savnede erfaring med at eksekvere et produktudviklingsforløb i denne skala. Vi løb derfor tør for ressourcer, og projektet er mit fejlede startup.
+
+_C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
 
 ### Aggregering af revenue-data, Relevant Media
 
@@ -154,7 +154,7 @@ _C#, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
 ### Selvbetjening for medlemmer, Danske Fysioterapeuter
 
 **Softwarearkitekt / Udvikler**  
-Siden dec. 2014 (tilbagevendende opgaver)
+Siden dec 2014 (tilbagevendende opgaver)
 
 Selvbetjeningssystem til indmeldelse og administration for eksisterende medlemmer. Omfattende indsamling af data om medlem med komplicerede forgreninger. Integration med interne forretningssystemer (f.eks. Navision).
 
