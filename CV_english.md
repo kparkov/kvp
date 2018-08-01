@@ -22,7 +22,7 @@ I live in Copenhagen with my girlfriend Ida and our daughter Liva.
 
 ### Keywords
 
-_Software architecture, C#, .NET, Javascript / Node.js, React, PHP, SQL, MongoDB, REST API, Git, Docker, Test Driven Development (TDD), managerial experience, communication, Scrum_
+_Software architecture, C#, .NET, Javascript / Node.js, React, PHP, SQL, MongoDB, REST API, integrations, Git, Docker, Test Driven Development (TDD), managerial experience, communication, Scrum_
 
 # Experience
 
@@ -95,6 +95,8 @@ Aug 2017 - Jun 2018
 
 Re-implementation of existing core libraries in a more modern programming language, with a number of specification adjustments. Core libraries for runtime modelling of molecules and protein structures, with analysis and optimization. Worked solo on the core library, after which the implementation and the project was brought into a broader scope in a number of dependent projects. I continued as a project member until the end of all the projects.
 
+Integration for internal web services (SOAP).
+
 _C#, .NET Core, XUnit_
 
 ### Website build tool, Svift
@@ -104,7 +106,7 @@ Jun 2016 - Aug 2017
 
 Tool to make websites with no techincal skills, offered for personal use and small businesses. Great frontend challenges with requirements for editing templates and stylesheets in the browser.
 
-Værktøj til at lave hjemmesider uden teknisk viden, udbudt til private og små virksomheder. Microservice-arkitektur. Store frontend-udfordringer med krav om at kunne redigere og udskifte styles live.
+Integrations for Kubernetes and Stripe.
 
 _Microservices, Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
 
@@ -124,6 +126,8 @@ Nov 2015 - Jun 2016
 
 An application for the public sector, when employees need to buy materials or book hotels under a framework agreement. First the basket is filled, then the system findes the best supplier and sends the order.
 
+Integration for the CVR web API.
+
 _C#, .NET MVC, JavaScript, MSSQL, HTML5 / Sass / CSS3, Foundation (CSS), Git_
 
 ### Launch, Public Ally
@@ -132,6 +136,8 @@ _C#, .NET MVC, JavaScript, MSSQL, HTML5 / Sass / CSS3, Foundation (CSS), Git_
 Aug 2015 - Jun 2016
 
 The idea behind Launch was to make public procurement easier for the public sector, by offering tools to manage and control the process and dialogue with potential suppliers, while also integrating with the Danish portal for procurements and EU's TED systems. I was a part of the group who developed the idea and the product from the bottom. The idea was good and found a lot of support, but the group lacked experience in executing an ambitious product development process. We ran out of resources, and the project became my failed startup.
+
+Integration for TED (EU).
 
 _C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
 
@@ -142,6 +148,8 @@ Maj 2015 - Aug 2017
 
 Tool for aggregating and visualizing revenue data for publishers, who present banner ads from a range of sources. Data is synchronized and massaged to fit a common data model, after which it can be effectively queried. Followed a microservice architecture.
 
+Integrations for WideOrdbit / Admeta, Adform, Pubmatic, Rubicon, Cxense, Improve Digital, Google Ads.
+
 _Microservices, Node.js, Express, MongoDB, ES6, React, Docker, Webpack, Git_
 
 ### Publishing tool, Relevant Media
@@ -151,6 +159,8 @@ Nov 2014 - Aug 2017
 
 Development of a hub for publication of ad campaigns for advertisers, across a range of ad systems.
 
+Integrations for WideOrdbit / Admeta, Adform, Pubmatic, Rubicon, Cxense, Improve Digital, Google Ads.
+
 _Node.js, Express, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
 
 ### Self service platform for members, Danish Selvbetjening for medlemmer, The Association of Danish Physiotherapists
@@ -158,7 +168,9 @@ _Node.js, Express, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
 **Software architect / developer**  
 Since Dec 2014 (recurring assignments)
 
-Self service system for registration and administration for existing members. Comprehensive data collection with complicated branching and member categories.  Integration with internal business systems (Navision).
+Self service system for registration and administration for existing members. Comprehensive data collection with complicated branching and member categories.
+
+Integration for Navision.
 
 _C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
 
@@ -168,6 +180,8 @@ _C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
 Nov 2013 - May 2014
 
 Development of the public self service system for administration of personal student loans on borger.dk. The user can see status of their debt and change the rate of repayment within a set of restrictions. Complicated synchronization with the database that contain all student loans.
+
+Integration for NemId and borger.dk.
 
 _C#, .NET MVC, MSSQL, JavaScript, Git_
 
@@ -180,6 +194,8 @@ Development of accounting system for handling public refusions within the ØSC a
 
 Udvikling af regnskabssystem til at styre offentlige refusioner i ØSC-området. Kompliceret datamodel og arbejdsgange, samt tunge beregninger og krav om præcision og sikkerhed.
 
+Integration for NemId.
+
 _C#, .NET MVC, MSSQL, JavaScript, Git_
 
 ### Website, Danish Meteorological Institute (DMI)
@@ -188,6 +204,8 @@ _C#, .NET MVC, MSSQL, JavaScript, Git_
 2011 - 2012
 
 New website based on TYPO3, and training of their development team for extending the functionality with TYPO3 extensions.
+
+Integrations for internal web services (REST).
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 

@@ -22,7 +22,7 @@ Jeg bor i København med min kæreste Ida og vores datter Liva.
 
 ### Nøgleord
 
-_Softwarearkitektur, C#, .NET, Javascript / Node.js, React, PHP, SQL, MongoDB, REST API, Git, Docker, Test Driven Development (TDD), Ledelseserfaring, Kommunikation, Scrum_
+_Softwarearkitektur, C#, .NET, Javascript / Node.js, React, PHP, SQL, MongoDB, REST API, integrationer, Git, Docker, Test Driven Development (TDD), Ledelseserfaring, Kommunikation, Scrum_
 
 # Erfaring
 
@@ -95,6 +95,8 @@ Aug 2017 - Jun 2018
 
 Re-implementering af eksisterende kernemoduler i et moderne sprog, med en række tilpasninger til specifikationen. Kernemoduler til runtime-modellering af molekyler og proteinstrukturer, samt analyse og optimering af disse. Arbejdede solo på implementeringen af kernemodulet, hvorefter implementeringen og projektet blev tilknyttet en række afledte projekter. Her fortsatte jeg som projektdeltager til afslutningen af projekterne.
 
+Integration til interne web services (SOAP).
+
 _C#, .NET Core, XUnit_
 
 ### Website build tool, Svift
@@ -104,6 +106,8 @@ Jun 2016 - Aug 2017
 
 Værktøj til at lave hjemmesider uden teknisk viden, udbudt til private og små virksomheder. Microservice-arkitektur. Store frontend-udfordringer med krav om at kunne redigere skabeloner og stylesheets direkte i browseren.
 
+Integrationer til Kubernetes og Stripe.
+
 _Microservices, Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
 
 ### Symbiosedatabase, Dansk SymbioseCenter
@@ -112,6 +116,8 @@ _Microservices, Node.js, Express, MongoDB, ES6, React, Redux, Docker, Git_
 Jan 2017 - Jun 2017
 
 Produktionsvirksomheder producerer spild, der kan være ressourcer for andre virksomheder. Målet med dette projekt var at forbinde disse virksomheder på en måde, der hjalp begge parter til at spare penge og reducere det miljømæssige fodaftryk. Løst gennem en brugervenlig database, der giver et hurtigt overblik over de nærmeste spild-til-ressource-forbindelser.
+
+Integration til CVR web API.
 
 _C#, .NET MVC, MySQL, MongoDB, JavaScript, Git_
 
@@ -131,6 +137,8 @@ Aug 2015 - Jun 2016
 
 Idéen bag Launch var at gøre udbudsprocesser nemmere for offentlige udbydere, ved at projektstyre processen og dialogen med de potentielle leverandører, og samtidig integrere til udbudsportalen og EU's TED-systemer. Jeg var del af gruppen, der udtænkte og udviklede produktet fra grunden. Idéen var god, men gruppen savnede erfaring med at eksekvere et produktudviklingsforløb i denne skala. Vi løb derfor tør for ressourcer, og projektet er mit fejlede startup.
 
+Integration til TED (EU).
+
 _C#, .NET Web API, React, JavaScript, HTML5 / Sass / CSS3, Foundation (CSS)_
 
 ### Aggregering af revenue-data, Relevant Media
@@ -140,6 +148,8 @@ Maj 2015 - Aug 2017
 
 Værktøj til aggregering og visualisering af revenue-data for udgivere, der præsenterer bannerreklamer fra en række forskellige kilder. Data synkroniseres og masseres til en samlet datamodel, der herefter er egnet til hurtige og fleksible forespørgsler. Microservice-arkitektur.
 
+Integrationer til WideOrdbit / Admeta, Adform, Pubmatic, Rubicon, Cxense, Improve Digital, Google Ads.
+
 _Node.js, Express, MongoDB, ES6, React, Docker, Webpack, Git_
 
 ### Udgivelsesværktøj, Relevant Media
@@ -147,7 +157,9 @@ _Node.js, Express, MongoDB, ES6, React, Docker, Webpack, Git_
 **Softwarearkitekt / Udvikler**  
 Nov 2014 - Aug 2017
 
-Udvikling af hub-platform til publicering af kampagner for annoncører på tværs af en række forskellige adservers. 
+Udvikling af hub-platform til publicering af kampagner for annoncører på tværs af en række forskellige adservers.
+
+Integrationer til WideOrdbit / Admeta, Adform, Pubmatic, Rubicon, Cxense, Improve Digital, Google Ads.
 
 _C#, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
 
@@ -156,7 +168,9 @@ _C#, MongoDB, ES6, React, Redux, Material Design, Webpack, Git_
 **Softwarearkitekt / Udvikler**  
 Siden dec 2014 (tilbagevendende opgaver)
 
-Selvbetjeningssystem til indmeldelse og administration for eksisterende medlemmer. Omfattende indsamling af data om medlem med komplicerede forgreninger. Integration med interne forretningssystemer (f.eks. Navision).
+Selvbetjeningssystem til indmeldelse og administration for eksisterende medlemmer. Omfattende indsamling af data om medlem med komplicerede forgreninger. 
+
+Integration med Navision.
 
 _C#, .NET MVC, .NET Web API, MSSQL, Navision, ES6, React, Redux, Git_
 
@@ -167,6 +181,8 @@ Nov 2013 - Maj 2014
 
 Udvikling af den offentlige selvbetjeningsløsning til administration af private studielån på borger.dk. Her kan brugeren se status for gælden og ændre afdragsordningen indenfor en række restriktioner. Kompliceret synkronisering med den database, der indeholder oplysninger om alle lånene.
 
+Integration til NemId og borger.dk.
+
 _C#, .NET MVC, MSSQL, JavaScript, Git_
 
 ### Regnskabssystem til refusioner, Statens Administration
@@ -176,6 +192,8 @@ Maj 2013 - Jun 2014
 
 Udvikling af regnskabssystem til at styre offentlige refusioner i ØSC-området. Kompliceret datamodel og arbejdsgange, samt tunge beregninger og krav om præcision og sikkerhed.
 
+Integration til NemId.
+
 _C#, .NET MVC, MSSQL, JavaScript, Git_
 
 ### Website, Danmarks Meteorologiske Institut (DMI)
@@ -184,6 +202,8 @@ _C#, .NET MVC, MSSQL, JavaScript, Git_
 2011 - 2012
 
 Etablering af nyt website baseret på TYPO3, samt opkvalificering af in-house udviklerne til at kunne udvikle komponenter til platformen.
+
+Integration til interne webservices (REST).
 
 _PHP, TYPO3, MySQL, JavaScript, jQuery, Git_
 
