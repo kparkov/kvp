@@ -2,8 +2,6 @@
 
 This is a repository containing my online resumé in Danish and English, in various formats. This resumé is always kept up to date, in all versions.
 
-> “Let's think the unthinkable, let's do the undoable. Let us prepare to grapple with the ineffable itself, and see if we may not eff it after all.” &mdash; Douglas Adams
-
 ## Contents
 
 ### Resumé (CV)
